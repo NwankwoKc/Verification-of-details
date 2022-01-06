@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+    font-style: oblique;
+    color: white;
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse; 
+};
